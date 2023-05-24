@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 const Card = () => {
 	return (
 		<section className='flex max-w-sm flex-col items-center space-y-7 rounded-2xl bg-blue-850 p-6'>
